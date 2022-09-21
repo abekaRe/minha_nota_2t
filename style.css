@@ -2,7 +2,7 @@ html, body {
   display: block;
   position: center;
   background: #000000;
-  background-size: cover;
+  background-size: contain;
 }
 h1 {
   font-family: Minion;
