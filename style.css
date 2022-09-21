@@ -5,6 +5,7 @@ html, body {
   height: 100vh;
   padding: 0;
   text-align: center;
+  background-position: 30% 45%;
   -o-background-size: cover;
   background-size: contain;
 }
