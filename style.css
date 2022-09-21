@@ -1,5 +1,5 @@
 html, body {
-  position: static;
+  position: absolute;
   background: #000000;
 }
 h1 {
