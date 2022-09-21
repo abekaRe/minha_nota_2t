@@ -1,7 +1,10 @@
 html, body {
+  display: table
   background: #000000;
   width: 100vw;
   height: 100vh;
+  padding: 0;
+  text-align: center;
   background-size: contain;
 }
 h1 {
